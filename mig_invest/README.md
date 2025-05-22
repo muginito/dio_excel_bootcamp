@@ -8,9 +8,9 @@ Essa ferramenta em Excel é baseada na Dio Invest, prosposta no desafio "Criando
 
 A ferramenta possui alguns parâmetros editáveis, indicados por preenchimento mais claro e ícones posicionados ao lado.
 
-![alt text](image.png)
+![alt text](./images/image.png)
 
-![alt text](image-1.png)
+![alt text](./images/image-1.png)
 
 ## Principais alterações
 
